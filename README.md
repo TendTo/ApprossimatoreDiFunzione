@@ -10,7 +10,7 @@
  ### Versione online
  [Live](https://editor.p5js.org/Tend/present/dLDb3_20W)
  
- ### Miglioramenti futuri
- - permettere un numero maggiore di punti
- - diversi metodi per approssimare la funzione
- - rappresentazione grafica scalabile, per accomodare valori esterni all'intervallo determinato dallo schermo
+ ### Miglioramenti futuri (o forse no)
+ - [ ] elaborazione di un numero maggiore di punti
+ - [ ] diversi metodi per approssimare la funzione, oltre quello polinomiale
+ - [ ] rappresentazione grafica scalabile, per accomodare valori esterni all'intervallo determinato dallo schermo
