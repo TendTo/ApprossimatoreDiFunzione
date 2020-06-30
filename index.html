@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <script src="p5.js"></script>
+    <script src="p5.sound.min.js"></script>
+    <script language="javascript" type="text/javascript" src="sketch.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8">
+    <title>Approssimatore di funzione</title>
+</head>
+
+<body color="white">
+    <div>
+        <h1>Approssimatore di funzione lineare a 3 punti</h1>
+        <div>
+            <text>Punto 1</text>
+            <input id="x0" placeholder="x0" type="number" class="inputC">
+            <input id="y0" placeholder="y0" type="number" class="inputC">
+        </div>
+        <div>
+            <text>Punto 2</text>
+            <input id="x1" placeholder="x1" type="number" class="inputC">
+            <input id="y1" placeholder="y1" type="number" class="inputC">
+        </div>
+        <div>
+            <text>Punto 3</text>
+            <input id="x2" placeholder="x2" type="number" class="inputC">
+            <input id="y2" placeholder="y2" type="number" class="inputC">
+        </div>
+        <br>
+        <input id="button" type="submit" value="Calcola la funzione">
+        <div>
+            <p id="result"></p>
+        </div>
+        <script src="sketch.js" width="10%" height="10%" margin="10"></script>
+    </div>
+
+
+</body>
+
+</html>
