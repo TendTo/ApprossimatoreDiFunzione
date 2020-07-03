@@ -8,7 +8,7 @@
  La visualizzazione grafica sarà soddisfacente se le coordinate dei punti sono abbastanza vicine all'origine (i valori dipendono dalla grandezza dello schermo)
  
  ### Versione online
- [Live](https://editor.p5js.org/Tend/present/dLDb3_20W)
+ [Live](https://tendto.github.io/ApprossimatoreDiFunzione/.)
  
  ### Miglioramenti futuri (o forse no)
  - [ ] elaborazione di un numero maggiore di punti
